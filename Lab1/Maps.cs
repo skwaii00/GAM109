@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab1
 { 
-     class Maps
+    class Maps
     {
         
         public string ID { get; set; }
