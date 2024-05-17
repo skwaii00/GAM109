@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Lab2_GAM109_Bai1
 {
-    public class Lab2Bai1
+    public class program
     {
         public static void Main(string[] args)
         {
