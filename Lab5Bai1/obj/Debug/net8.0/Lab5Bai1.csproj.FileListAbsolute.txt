@@ -1,0 +1,15 @@
+D:\GAM109\Lab5Bai1\bin\Debug\net8.0\Lab5Bai1.exe
+D:\GAM109\Lab5Bai1\bin\Debug\net8.0\Lab5Bai1.deps.json
+D:\GAM109\Lab5Bai1\bin\Debug\net8.0\Lab5Bai1.runtimeconfig.json
+D:\GAM109\Lab5Bai1\bin\Debug\net8.0\Lab5Bai1.dll
+D:\GAM109\Lab5Bai1\bin\Debug\net8.0\Lab5Bai1.pdb
+D:\GAM109\Lab5Bai1\obj\Debug\net8.0\Lab5Bai1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GAM109\Lab5Bai1\obj\Debug\net8.0\Lab5Bai1.AssemblyInfoInputs.cache
+D:\GAM109\Lab5Bai1\obj\Debug\net8.0\Lab5Bai1.AssemblyInfo.cs
+D:\GAM109\Lab5Bai1\obj\Debug\net8.0\Lab5Bai1.csproj.CoreCompileInputs.cache
+D:\GAM109\Lab5Bai1\obj\Debug\net8.0\Lab5Bai1.sourcelink.json
+D:\GAM109\Lab5Bai1\obj\Debug\net8.0\Lab5Bai1.dll
+D:\GAM109\Lab5Bai1\obj\Debug\net8.0\refint\Lab5Bai1.dll
+D:\GAM109\Lab5Bai1\obj\Debug\net8.0\Lab5Bai1.pdb
+D:\GAM109\Lab5Bai1\obj\Debug\net8.0\Lab5Bai1.genruntimeconfig.cache
+D:\GAM109\Lab5Bai1\obj\Debug\net8.0\ref\Lab5Bai1.dll
